@@ -1,2 +1,28 @@
-# b8146ec4-mining-natural-resources-mee
-Tired of losing critical decisions in a sea of scattered meeting notes? In mining and natural resources, one missed action item can lead to safety risks or costly delays. This Notion template gives you a structured, searchable decision log that keeps every meeting outcome organized and accountable.  This template solves the chaos of manual note-tak
+# Mining & Natural Resources Meeting Notes and Decision Log Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/eVq8wPdPpcYI09a9rKd0k0B)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/eVq8wPdPpcYI09a9rKd0k0B)
+
